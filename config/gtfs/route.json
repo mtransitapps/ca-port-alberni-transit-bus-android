@@ -5,8 +5,9 @@
     "default_route_long_name_enabled": true,
     "direction_finder_enabled": true,
     "allow_non_descriptive_head_signs_until": {
-        "4": "20260905"
+        "4": "20270908"
     },
+    "allow_non_descriptive_head_signs_until_4_comment": "Same trip head-sign provided in trips.txt, website says North/South",
     "trip_headsign_remove_via": true,
     "trip_headsign_cleaners": [],
     "stop_name_cleaners": []
